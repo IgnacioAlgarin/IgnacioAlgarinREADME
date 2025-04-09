@@ -24,7 +24,7 @@ Datos reales de transporte SUBE procesados con PySpark y visualizados en R.
 
 ## 📫 Contacto
 
-- ✉️ juanalgarin00@gmail.com  
+- juanalgarin00@gmail.com  
 - [LinkedIn](https://www.linkedin.com)  
 - [GitHub](https://github.com/IgnacioAlgarin)
 
